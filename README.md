@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Fan WangZhaoWu(王昭武).</h2>
+<h2> Hey there! I'm WangZhaoWu(王昭武).</h2>
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Eaglewzw&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/Eaglewzw)
 
@@ -43,7 +43,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  联系我：1460853569@qq.com
+  联系我：1460853569@qq.com  
   联系我：jj1460853569@gmail.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Eaglewzw.Eaglewzw.readme)
