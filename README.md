@@ -45,5 +45,3 @@
 
   联系我：1460853569@qq.com  
   联系我：jj1460853569@gmail.com
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Eaglewzw.Eaglewzw.readme)
