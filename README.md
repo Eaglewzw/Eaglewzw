@@ -67,10 +67,13 @@
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eaglewzw&theme=buefy&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglewzw&theme=buefy&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eaglewzw&show_icons=true&theme=buefy&count_private=true" alt="Eaglewzw's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglewzw&layout=compact&theme=buefy" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eaglewzw&theme=buefy" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🤝🏻 Connect with Me
