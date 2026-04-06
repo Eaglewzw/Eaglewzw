@@ -1,48 +1,84 @@
-<h2> Hey there! I'm WangZhaoWu(王昭武).</h2>
+# 👨🏻‍💻 Hi there, I'm Wang ZhaoWu (王昭武) 🚀
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Eaglewzw&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/Eaglewzw)
+<p align="left">
+  <a href="https://github.com/Eaglewzw">
+    <img src="https://komarev.com/ghpvc/?user=Eaglewzw&label=Profile%20views&color=0e75b6&style=flat" alt="Eaglewzw" />
+  </a>
+</p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- 🤔 &nbsp; 西北民族大学信息工程 && 广东工业大学通信工程
-- 🎓 &nbsp; 嵌入式开发 ROS机器人开发
-- 💼 &nbsp; 业余音乐爱好者
-- 🌱 &nbsp; 脚踏实地的理想主义者
-- ✍️ &nbsp; 个人主页：暂时没有唉
+### 🌟 About Me
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglewzw&theme=buefy&layout=compact"/>](https://github.com/Eaglewzw)
+我是 **王昭武**，一名专注于 **嵌入式系统、计算机视觉与机器人控制** 的研究生。我热衷于将先进的深度学习算法落地到边缘计算设备上，实现真正的智能自动化。
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🎓 **Education**: 西北民族大学 (信息工程) && 广东工业大学 (通信工程)
+- 🛰️ **Current Research**: 专注于 **小目标无人机 (UAV) 检测与拦截控制系统**。
+- 💡 **Philosophy**: 脚踏实地的理想主义者。
+- 🎹 **Hobby**: 业余音乐爱好者，在代码的逻辑中寻找旋律。
+- ✍️ **Blog**: [Eaglewzw's Personal Blog](https://eaglewzw.github.io) (正在持续更新中...)
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
-  ![ROS2](https://img.shields.io/badge/-ROS2-333333?style=ros)
-- 🌐 &nbsp;
-  ![ARM](https://img.shields.io/badge/-ARM-333333?style=flat&logo=arm)
-  ![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stm32)
-  ![C51](https://img.shields.io/badge/-C51-333333?style=flat)
-  ![esp8266](https://img.shields.io/badge/-esp8266-333333?style=flat)
-  ![esp32](https://img.shields.io/badge/-esp32-333333?style=flat)
-  ![arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime)
-  ![Keil](https://img.shields.io/badge/-Keil-333333?style=flat&logo=keil)
-  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
-- 🖥 &nbsp;
-  ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat)
-  ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=solidWorks)
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-  ![Fusion360](https://img.shields.io/badge/-Fusion360-333333?style=flat&logo=fusion)
+---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🚀 Key Projects & Contributions
 
-  联系我：1460853569@qq.com  
-  联系我：jj1460853569@gmail.com
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GD_Net](https://github.com/Eaglewzw/GD_Net)** | 一种面向边缘设备的轻量化检测模型，结合 MCUNet 与 YOLOv3。 | `PyTorch` `YOLO` `Edge AI` |
+| **[Drone-25k](https://github.com/Eaglewzw/Drone-25k)** | 针对复杂背景下小目标无人机拦截任务而创建的数据集。 | `Dataset` `UAV` `Computer Vision` |
+| **UAV Interception System** | 基于 ROS2 与 PX4 的无人机自主拦截仿真与控制。 | `ROS2` `PX4` `Gazebo` `C++` |
+
+---
+
+### 🛠 Tech Stack
+
+<details>
+  <summary><b>💻 Programming & Frameworks</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>🌐 Hardware & Embedded</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>⚙️ Tools & Design</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SolidWorks-DA1F26?style=flat-square&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Altium_Designer-A5915F?style=flat-square" />
+</details>
+
+---
+
+### 📊 Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eaglewzw&theme=buefy&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaglewzw&theme=buefy&layout=compact" />
+</p>
+
+---
+
+### 🤝🏻 Connect with Me
+
+- 📧 Email: [1460853569@qq.com](mailto:1460853569@qq.com) / [jj1460853569@gmail.com](mailto:jj1460853569@gmail.com)
+- 💬 欢迎探讨关于 **UAV Control, Computer Vision, Embedded Linux** 的任何话题！
+
+---
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
