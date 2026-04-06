@@ -36,8 +36,8 @@
 ### 🤝 联系我 / Connect with Me
 
 - 📧 **Email**: [1460853569@qq.com](mailto:1460853569@qq.com) / [jj1460853569@gmail.com](mailto:jj1460853569@gmail.com)
-- 💬 **WeChat**: (你可以填入你的微信号或保持现状)
+- 💬 **WeChat**: (你*******)
 
 ---
 
-*"The best way to predict the future is to create it."*
+*"Only fear can hold you back, in any direction."*
