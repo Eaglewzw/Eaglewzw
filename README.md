@@ -36,7 +36,7 @@
 ### 🤝 联系我 / Connect with Me
 
 - 📧 **Email**: [1460853569@qq.com](mailto:1460853569@qq.com) / [jj1460853569@gmail.com](mailto:jj1460853569@gmail.com)
-- 💬 **WeChat**: (你*******)
+- 💬 **WeChat**: (*******)
 
 ---
 
