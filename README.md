@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Wang ZhaoWu (王昭武)
 
-> **嵌入式开发 | 计算机视觉 | 机器人控制**
+> **嵌入式开发 | 边缘计算 | 计算机视觉 | 机器人控制**
 > 
-> 前对这些方向充满好奇：小目标 UAV 检测、边缘 AI 落地以及无人机自主飞行控制。
+> 前对这些方向充满好奇：目标检测、边缘 AI 落地以及无人机自主飞行控制。
 
 ---
 
@@ -21,7 +21,7 @@
 
 - **编程语言**: `Python`, `C`, `C++`, `MATLAB`
 - **机器人 & 算法**: `ROS / ROS2`, `OpenCV`, `PyTorch (YOLO)`, `PX4 Autopilot`
-- **嵌入式 & 硬件**: `STM32`, `ARM`, `Jetson Nano`, `ESP32`, `RTOS`
+- **嵌入式 & 硬件**: `STM32`, `ARM`, `Jetson Nano`, `RK35XX`、`ESP32`, `RTOS`
 - **工程工具**: `Git`, `Markdown`, `Altium Designer`, `SolidWorks`, `Fusion360`
 
 ---
