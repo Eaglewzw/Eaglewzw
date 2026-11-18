@@ -18,10 +18,11 @@
 
 ### 🛠 技术栈 / Tech Stack
 
-- **编程语言**: `Python`, `C`, `C++`, `MATLAB`
-- **机器人 & 算法**: `ROS / ROS2`, `OpenCV`, `PyTorch (YOLO)`, `PX4 Autopilot`
-- **嵌入式 & 硬件**: `STM32`, `ARM`, `Jetson Nano`, `RK35XX`、`ESP32`, `RTOS`
-- **工程工具**: `Git`, `Markdown`, `Altium Designer`, `SolidWorks`, `Fusion360`
+- **边缘AI部署**: OpenExplorer（PTQ量化）、RKNN-Toolkit2，RDK X3/X5、S100、RK3588（NPU）
+- **算法方向**: 目标检测与跟踪（YOLO系列、LightTrack）
+- **编程语言**: C/C++（多线程、STL）、Python
+- **机器人与系统**: ROS1/ROS2、Gazebo/PX4 SITL、FreeRTOS、Linux（多进程编程）
+- **嵌入式平台**: STM32、ZYNQ（PS/PL）、IMX6ULL、ESP32系列
 
 ---
 
