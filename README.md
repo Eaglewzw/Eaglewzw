@@ -18,15 +18,12 @@
 
 ### 🛠 技术栈 / Tech Stack
 
-| 方向 | 技术与平台 |
-| :--- | :--- |
-| 计算机视觉 | 目标检测与跟踪 · YOLO 系列 · LightTrack |
-| 边缘 AI 工具链 | OpenExplorer（PTQ 量化）· RKNN-Toolkit2 |
-| 边缘计算平台 | RDK X3 / X5 · S100 · RK3588（NPU） |
-| 编程语言 | C / C++（STL、多线程）· Python |
-| 机器人与仿真 | ROS 1 / ROS 2 · Gazebo · PX4 SITL |
-| 操作系统 | Linux（多进程编程）· FreeRTOS |
-| 嵌入式平台 | STM32 · ZYNQ（PS / PL）· i.MX6ULL · ESP32 系列 |
+
+- **边缘 AI 部署**：OpenExplorer（PTQ 量化）、RKNN-Toolkit2；RDK X3/X5、S100、RK3588（NPU）
+- **算法方向**：目标检测与跟踪（YOLO 系列、LightTrack）
+- **编程语言**：C/C++（多线程、STL）、Python
+- **机器人与系统**：ROS 1/2、Gazebo、PX4 SITL、FreeRTOS、Linux（多进程编程）
+- **嵌入式平台**：STM32、ZYNQ（PS/PL）、i.MX6ULL、ESP32 系列
 
 ---
 
