@@ -18,11 +18,11 @@
 
 ### 🛠 技术栈 / Tech Stack
 
-- **边缘 AI 部署**：`OpenExplorer`（PTQ）、`RKNN-Toolkit2`；`RDK X3/X5`、`S100`、`RK3588`
-- **算法方向**：目标检测与跟踪（`YOLO` 系列、`LightTrack`）
-- **编程语言**：`C/C++`（多线程、STL）、`Python`
+- **边缘 AI**：`PTQ 量化`、`模型转换`、`NPU 部署`
+- **算法方向**：`YOLO`、`LightTrack`
+- **编程语言**：`C/C++`、`Python`
 - **机器人与系统**：`ROS 1/2`、`Gazebo`、`PX4 SITL`、`FreeRTOS`、`Linux`
-- **嵌入式平台**：`STM32`、`ZYNQ`、`i.MX6ULL`、`ESP32`
+- **嵌入式平台**：`STM32`、`ZYNQ`、`ESP32`、`RDK X3/X5/S100`、`RK35XX`
 
 ---
 
